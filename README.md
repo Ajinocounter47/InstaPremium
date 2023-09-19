@@ -1,5 +1,3 @@
-# InstaPremium
-
 # Instagram Brute Force Premium - From Indonesian
 ᅟ
 Premium is a script created using the Python programming language which has a function to Hack Instagram accounts randomly with an easy list of passwords. This script is highly recommended for beginners because there are various ways to use this script.
